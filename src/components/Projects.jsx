@@ -20,13 +20,14 @@ const Projects = () => {
       iconLink: <FaGithub />,
     },
     {
-      title: "Portfolio Website",
+      title: "Other Projects on Vercel",
       icon: <FaLaptopCode />,
-      description: "Interactive portfolio showcasing my skills, projects, and experience.",
-      link: "#",
+      description: "More projects deploymed on Vercel showcasing my frontend development skills.",
+      link: "https://vercel.com/smriti-s-projects-2e730710",
       linkText: "Live Demo",
       iconLink: <FaExternalLinkAlt />,
     },
+    
   ];
 
   return (
