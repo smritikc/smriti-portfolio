@@ -6,8 +6,8 @@ const Contact = () => {
     {
       icon: <FaEnvelope />,
       title: "Email",
-      content: "smritikc830@gmail.com",
-      link: "mailto:smritikc830@gmail.com",
+      content: "smritikc588@gmail.com",
+      link: "mailto:smritikc588@gmail.com",
       type: "email",
     },
     {

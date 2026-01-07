@@ -15,7 +15,7 @@ const Footer = () => {
     },
     {
       icon: <FaEnvelope />,
-      link: "mailto:smritikc830@gmail.com",
+      link: "mailto:smritikc588@gmail.com",
       label: "Email",
     },
     {
