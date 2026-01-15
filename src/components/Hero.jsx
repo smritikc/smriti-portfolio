@@ -239,7 +239,7 @@ const Hero = () => {
               <div className="photo-frame">
                 <div className="photo-placeholder">
                   <img 
-                    src="/gibli.jpg" 
+                    src="/skc img 1.jpeg" 
                     alt="Smriti K.C" 
                     className="profile-photo"
                     onError={(e) => {
